@@ -156,4 +156,4 @@ txtOUT.write("\n")
 
 txtOUT.write("** end of output **")
 
-End result will give you a txt file called pyPoll.txt, which will give you a Financial Analysis of information read.
+End result will give you a txt file called pyPoll.txt, which will give you the Election Results of information read.
